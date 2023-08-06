@@ -14,7 +14,10 @@ To view the demo of the website, click [here](https://youtu.be/q3wsoW659zM).<br>
 ## Project Presentation
 
 To view the Project Presentation , click [here](https://www.canva.com/design/DAFqvKxQ1cU/SdbSvnIDF7JT6F9wLb-Kbw/edit?utm_content=DAFqvKxQ1cU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).<br>
-**How to get Started**<br>
+
+
+## How to get Started
+
 1- Run this command in git bash https://github.com/nisha-laur/EmpowerU.git<br>
 2- Then run this command - cd treact <br>
 3- npm install <br>
