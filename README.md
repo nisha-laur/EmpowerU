@@ -5,8 +5,8 @@ We met Sunita, a maid, who has 3 daughters and is the only earning member of her
 Problem Marginalized individuals, including young women and homemakers struggle to acquire relevant skills and achieve financial independence due to limited access to quality education, financial constraints, and a lack of tailored technical resources. The absence of streamlined portfolio creation further hinders their employment prospects. To address these challenges, our project aims to create a web application that provides free skill development courses, job application support, portfolio generation assistance, and tailored technical resources. By bridging these gaps, we seek to empower marginalized individuals to acquire skills, secure employment, and overcome societal barriers, enabling them to thrive and contribute to society.
 
 
-** How to get Started **
-1- Run this command in git bash https://github.com/nisha-laur/EmpowerU.git
-2- Then run this command - cd treact 
-3- npm install 
-4- npm start
+**How to get Started**<br>
+1- Run this command in git bash https://github.com/nisha-laur/EmpowerU.git<br>
+2- Then run this command - cd treact <br>
+3- npm install <br>
+4- npm start<br>
