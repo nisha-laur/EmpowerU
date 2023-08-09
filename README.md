@@ -19,9 +19,9 @@ To view the Project Presentation , click [here](https://www.canva.com/design/DAF
 
 
 ## How to get Started
-
-1- Run this command in git bash https://github.com/nisha-laur/EmpowerU.git<br>
-2- Then run this command - cd treact <br>
+Run these commands in git bash
+1- git clone bash https://github.com/nisha-laur/EmpowerU.git<br>
+2- cd treact <br>
 3- npm install <br>
 4- npm start<br>
 
