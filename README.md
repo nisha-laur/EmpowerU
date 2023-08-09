@@ -23,7 +23,7 @@ To view the Video Presentation , click [here](https://youtu.be/q3wsoW659zM).<br>
 
 
 ## How to get Started
-Run these commands in git bash
+Run these commands in git bash<br>
 1- git clone bash https://github.com/nisha-laur/EmpowerU.git<br>
 2- cd treact <br>
 3- npm install <br>
