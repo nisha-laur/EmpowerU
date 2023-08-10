@@ -15,7 +15,7 @@ To view the demo of the website, click [here](https://youtu.be/q3wsoW659zM).<br>
 
 ## PPT Presentation
 
-To view the Project Presentation , click [here](https://www.canva.com/design/DAFqvKxQ1cU/SdbSvnIDF7JT6F9wLb-Kbw/edit?utm_content=DAFqvKxQ1cU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).<br>
+To view the Project Presentation , click [here](https://www.canva.com/design/DAFqsQ96LtI/1KwjTphdCCZUNX5t0r2cfA/view?utm_content=DAFqsQ96LtI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).<br>
 
 ## Video Presentation
 
