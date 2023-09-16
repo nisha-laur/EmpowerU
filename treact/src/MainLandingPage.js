@@ -142,30 +142,27 @@ export default ({
               EmpowerU
             </LogoLink>
             <div tw="flex flex-wrap justify-center lg:justify-end items-center -mr-12">
-              <NavLink target="_blank" href="https://owaiskhan.me/post/free-tailwindcss-react-ui-kit">
+              <NavLink target="_blank" href="">
                 Skill Empowerment
               </NavLink>
-              <NavLink target="_blank" href="https://owaiskhan.me">
+              <NavLink target="_blank" href="">
                Job Support
               </NavLink>
               <NavLink target="_blank" href="https://nisha-laur.github.io/Portfoliogenerator/" rel="noopener noreferrer">
                Portfolio Generator
                
               </NavLink>
-              <NavLink target="_blank" href="mailto:owaiswiz@gmail.com">
+              <NavLink target="_blank" href="">
                 EmpowerU Store
               </NavLink>
               <div tw="md:hidden flex-100 h-0"></div>
-              <PrimaryNavLink target="_blank" href="https://gum.co/QaruQ">
+              <PrimaryNavLink target="_blank" href="">
                 Signup/Login
               </PrimaryNavLink>
             </div>
           </NavRow>
           <HeroRow>
-            {/* <UpdateNotice>
-              <UpdateNoticeIcon />
-              Last updated on 10th September, 2022 - Added support for React v18 and TailwindCSS v3!
-            </UpdateNotice> */}
+        
             <TextColumn>
               <Heading as="h1">{heading}</Heading>
               <Description>{description}</Description>
@@ -212,42 +209,7 @@ export default ({
               ))}
             </PreviewCards>
           </SectionContainer>
-          {/* <SectionContainer>
-            <SectionHeading>Inner Pages</SectionHeading>
-            <SectionDescription>
-              We also provide {noOfInnerPages} additional inner pages for your various needs like a signup, login,
-              pricing, about us, contact, blog etc. To view them in action click the "View Live Demo" button.
-            </SectionDescription>
-            <PreviewCards>
-              {Object.entries(innerPages).map(([pageName, page], index) => (
-                <PreviewCardContainer key={index}>
-                  <PreviewCard initial="rest" animate="rest" whileHover="hover" href={page.url} target="_blank">
-                    <PreviewCardImageContainer>
-                      <PreviewCardImage
-                        transition={{ type: "tween" }}
-                        variants={!page.scrollAnimationDisabled && previewImageAnimationVariants}
-                        $imageSrc={page.imageSrc}
-                      />
-                    </PreviewCardImageContainer>
-                    <PreviewButton>View Live Demo</PreviewButton>
-                  </PreviewCard>
-                </PreviewCardContainer>
-              ))}
-            </PreviewCards>
-          </SectionContainer> */}
-
-          {/* <SectionContainer id="componentDemos">
-            <SectionHeading>Component Blocks</SectionHeading>
-            <SectionDescription>
-              We also provide {noOfComponentBlocks} components along with the premade landing pages so you can create
-              your own landing page within minutes as you see fit. You can combine these components to create 1000s of
-              unique attractive web pages.
-              <span tw="block text-sm text-gray-500 mt-2">
-                (Preview Panel below inspired by Tailwind UI)
-              </span>
-            </SectionDescription>
-            <BlocksRenderer blocks={Object.values(blocks)} />
-          </SectionContainer> */}
+        
         </Content2Xl>
       </Container>
     </AnimationRevealPage>
