@@ -8,9 +8,9 @@ Problem Marginalized individuals, including young women and homemakers struggle 
 
 ![image](https://github.com/nisha-laur/EmpowerU/assets/104618576/e1e07618-1303-40ae-965e-1e6cbd84b712)
 
-## Project Demo Video
+## Visit the site
 
-To view the demo of the website, click [here](https://youtu.be/q3wsoW659zM).<br>
+To view the website, click [here](https://6504be58e9886221c8e70af4--mellow-frangipane-ab4448.netlify.app/).<br>
 
 
 ## PPT Presentation
