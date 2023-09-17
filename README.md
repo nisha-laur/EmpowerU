@@ -1,4 +1,5 @@
-# EmpowerU
+# <a href="https://6504be58e9886221c8e70af4--mellow-frangipane-ab4448.netlify.app/">EmpowerU</a>
+
 **Inspiration** <br>
 We met Sunita, a maid, who has 3 daughters and is the only earning member of her family. She has to manage her household expenses, along with the educational expenses of her children, keeping aside some funds for emergency situations(like medical emergencies). Somehow she managed to educate her children till high school but is unable to afford their education at the university level. But she also wants to make them financially independent. So, we talked to one of her daughters and came to know that she has an interest in computers but doesn’t know how to operate them. So, at that moment I figured out that there are many such people, especially young women, homemakers or community who want to contribute financially but can’t find ways to learn those skills. So, we have created a platform for them to gain relevant skills and become financially independent.<br>
 
