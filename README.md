@@ -30,3 +30,10 @@ Run these commands in git bash<br>
 4- npm start<br>
 
 
+## Project Status
+
+⚠️ **This Project is Under Construction** ⚠️
+
+Last Updated: September 17, 2023
+
+We are actively working on developing and improving this project. While it's functional, please note that there may be bugs or incomplete features. We appreciate your understanding and patience as we work towards making it even better.
