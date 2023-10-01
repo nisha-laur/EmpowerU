@@ -35,6 +35,6 @@ Run these commands in git bash<br>
 
 ⚠️ **This Project is Under Construction** ⚠️
 
-Last Updated: September 17, 2023
+Last Updated: September 27, 2023
 
 We are actively working on developing and improving this project. While it's functional, please note that there may be bugs or incomplete features. We appreciate your understanding and patience as we work towards making it even better.
